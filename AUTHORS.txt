@@ -3,5 +3,6 @@
 # See the latter for an explanation.
 #
 # Names should be added to this file as:
-# Name or Organization <email address>
+# Instituto Costarricense de Electricidad, marketing brand name: kölbi
+# email address: mgomezd@ice.go.cr
 
